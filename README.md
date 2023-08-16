@@ -10,4 +10,4 @@ When developing a project, it's important to consider its specific requirements 
 
 
 # What does it mean to be a good team member in software development?
-Being a good team member is about contributing your skills, knowledge, and positive energy to help the team succeed. By embodying these qualities and behaviors, you contribute to a collaborative, innovative, and successful software development environment.
+To be a good team member, you need to bring your skills, knowledge, and positive attitude to the table. This helps the team work together well, come up with new ideas, and achieve success in software development.
